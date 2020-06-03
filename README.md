@@ -1,3 +1,3 @@
-# 增长黑客.实例 growth-hacking.example
+# growth-hacking.example.china
 
-专注于中国的「增长黑客」实例收集
+收集一些在中国的软件推广推广行之有效的方式
